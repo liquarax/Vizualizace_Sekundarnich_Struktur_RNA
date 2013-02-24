@@ -1,6 +1,8 @@
 Vizualizace_Sekundarnich_Struktur_RNA
 =====================================
 Specifikace
+
+
 RNA je nukleonová kyselina podobná DNA. Ale narozdíl od DNA tvoří RNA pouze jedno vlákno.
 Některé báze v tomto vláknu mohou být spárované pomocí takzvaných vodíkových můstků.
 Vazby mezi bázemi ovlivňují tvar molekuly a její sekundární strukturu. Cílem tohoto
